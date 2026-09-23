@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xn--mes358a9s4acla.com/sitemap.xml
